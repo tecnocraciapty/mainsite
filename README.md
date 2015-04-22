@@ -15,12 +15,12 @@ Pagina principal del Movimiento Tecnocratico Panameño: Una sociedad civil que p
 3. abrir terminal/command prompt e ingresar el folder /main
 4. dentro de main ingresar el comando >meteor
 
-Los paquetes actuales son: 
-fortawesome:fontawesome  4.3.0  Font Awesome (official): 500+ scalable vector...
-insecure                 1.0.3  Allow all database writes by default
-iron:router              1.0.7  Routing specifically designed for Meteor
-meteor-platform          1.2.2  Include a standard set of Meteor packages in ...
-twbs:bootstrap           3.3.4  The most popular front-end framework for deve...
+Los paquetes actuales son:
+fortawesome:fontawesome  4.3.0
+insecure                 1.0.3
+iron:router              1.0.7
+meteor-platform          1.2.2
+twbs:bootstrap           3.3.4
 
 Nota: el paquete Insecure debe ser removido previo al despliegue.
 
