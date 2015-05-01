@@ -1,5 +1,5 @@
 # mainsite
-Pagina principal del Movimiento Tecnocratico Panameño: Una sociedad civil que promueve la solución de problemas sociales a través del uso de la ciencia y tecnología abierta.
+Pagina principal del Movimiento Tecnocratico Panameño: Una sociedad civil que promueve la solución de problemas sociales a través del desarrollo de software y hardware abierto.
 
 # Concepto de Diseño:
 1. Horizontal Scrolling
